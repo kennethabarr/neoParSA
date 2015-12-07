@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/neoParSA/!svn/ver/335/trunk/tests/fly
+END
+fly_sa-mpi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/neoParSA/!svn/ver/335/trunk/tests/fly/fly_sa-mpi.cpp
+END
+solvers.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/neoParSA/!svn/ver/115/trunk/tests/fly/solvers.h
+END
+maternal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/neoParSA/!svn/ver/219/trunk/tests/fly/maternal.cpp
+END
+scoring.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/neoParSA/!svn/ver/219/trunk/tests/fly/scoring.cpp
+END
+fly_expHold.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/neoParSA/!svn/ver/335/trunk/tests/fly/fly_expHold.cpp
+END
+g9_orig
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/neoParSA/!svn/ver/98/trunk/tests/fly/g9_orig
+END
+fly_expHold-TA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/neoParSA/!svn/ver/335/trunk/tests/fly/fly_expHold-TA.cpp
+END
+fly_simPLam-fbMix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/neoParSA/!svn/ver/335/trunk/tests/fly/fly_simPLam-fbMix.cpp
+END
+zygotic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/neoParSA/!svn/ver/134/trunk/tests/fly/zygotic.cpp
+END
+DataLists.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/neoParSA/!svn/ver/95/trunk/tests/fly/DataLists.cpp
+END
+flyData.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/neoParSA/!svn/ver/115/trunk/tests/fly/flyData.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/neoParSA/!svn/ver/269/trunk/tests/fly/CMakeLists.txt
+END
+solvers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/neoParSA/!svn/ver/192/trunk/tests/fly/solvers.cpp
+END
+g9.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/neoParSA/!svn/ver/166/trunk/tests/fly/g9.xml
+END
+test-2
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/neoParSA/!svn/ver/144/trunk/tests/fly/test-2
+END
+fly.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/neoParSA/!svn/ver/179/trunk/tests/fly/fly.h
+END
+fly_expHold-mpi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/neoParSA/!svn/ver/335/trunk/tests/fly/fly_expHold-mpi.cpp
+END
+fly_pulse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/neoParSA/!svn/ver/335/trunk/tests/fly/fly_pulse.cpp
+END
+fly_expHold-mixing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/neoParSA/!svn/ver/335/trunk/tests/fly/fly_expHold-mixing.cpp
+END
+g9-template
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/neoParSA/!svn/ver/166/trunk/tests/fly/g9-template
+END
+maternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/neoParSA/!svn/ver/95/trunk/tests/fly/maternal.h
+END
+fly_expHold-mixing-IM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/neoParSA/!svn/ver/335/trunk/tests/fly/fly_expHold-mixing-IM.cpp
+END
+fly_expHold-amix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/neoParSA/!svn/ver/335/trunk/tests/fly/fly_expHold-amix.cpp
+END
+scoring.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/neoParSA/!svn/ver/114/trunk/tests/fly/scoring.h
+END
+fly_expHold-IndMove.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/neoParSA/!svn/ver/335/trunk/tests/fly/fly_expHold-IndMove.cpp
+END
+fly_simPLam.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/neoParSA/!svn/ver/335/trunk/tests/fly/fly_simPLam.cpp
+END
+fly_sa.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/neoParSA/!svn/ver/335/trunk/tests/fly/fly_sa.cpp
+END
+fly_expHold-theta.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/neoParSA/!svn/ver/335/trunk/tests/fly/fly_expHold-theta.cpp
+END
+flyData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/neoParSA/!svn/ver/115/trunk/tests/fly/flyData.cpp
+END
+varser_53
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/neoParSA/!svn/ver/113/trunk/tests/fly/varser_53
+END
+printscore.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/neoParSA/!svn/ver/102/trunk/tests/fly/printscore.cpp
+END
+scramble.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/neoParSA/!svn/ver/192/trunk/tests/fly/scramble.cpp
+END
+fly_pEH-fbMix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/neoParSA/!svn/ver/335/trunk/tests/fly/fly_pEH-fbMix.cpp
+END
+fly.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/neoParSA/!svn/ver/192/trunk/tests/fly/fly.cpp
+END
+zygotic.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/neoParSA/!svn/ver/115/trunk/tests/fly/zygotic.h
+END
+DataLists.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/neoParSA/!svn/ver/95/trunk/tests/fly/DataLists.h
+END

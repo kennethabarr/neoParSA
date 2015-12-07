@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/neoParSA/!svn/ver/335/trunk/parsa/move
+END
+feedbackMove.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/neoParSA/!svn/ver/335/trunk/parsa/move/feedbackMove.h
+END
+feedbackMove.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/neoParSA/!svn/ver/335/trunk/parsa/move/feedbackMove.hpp
+END
+parallelFBMove.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/neoParSA/!svn/ver/335/trunk/parsa/move/parallelFBMove.h
+END
+parallelFBMove.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/neoParSA/!svn/ver/335/trunk/parsa/move/parallelFBMove.hpp
+END
+fixedThetaMove.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/neoParSA/!svn/ver/335/trunk/parsa/move/fixedThetaMove.h
+END
+fixedThetaMove.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/neoParSA/!svn/ver/335/trunk/parsa/move/fixedThetaMove.hpp
+END
+FBNCTheta.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/neoParSA/!svn/ver/335/trunk/parsa/move/FBNCTheta.h
+END
+FBNCTheta.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/neoParSA/!svn/ver/335/trunk/parsa/move/FBNCTheta.hpp
+END
+FBMoveNoComm.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/neoParSA/!svn/ver/335/trunk/parsa/move/FBMoveNoComm.h
+END
+FBMoveNoComm.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/neoParSA/!svn/ver/335/trunk/parsa/move/FBMoveNoComm.hpp
+END

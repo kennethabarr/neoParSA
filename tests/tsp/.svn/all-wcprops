@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/neoParSA/!svn/ver/345/trunk/tests/tsp
+END
+tsp_lam.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/neoParSA/!svn/ver/345/trunk/tests/tsp/tsp_lam.cpp
+END
+tsp_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/neoParSA/!svn/ver/230/trunk/tests/tsp/tsp_test.cpp
+END
+tsp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/neoParSA/!svn/ver/278/trunk/tests/tsp/tsp.cpp
+END
+tsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/neoParSA/!svn/ver/246/trunk/tests/tsp/tsp.h
+END
+tsp_scramble.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/neoParSA/!svn/ver/245/trunk/tests/tsp/tsp_scramble.cpp
+END
+tsp_printscore.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/neoParSA/!svn/ver/242/trunk/tests/tsp/tsp_printscore.cpp
+END
+solve_tsp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/neoParSA/!svn/ver/335/trunk/tests/tsp/solve_tsp.cpp
+END
+tsp_expHold-mix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/neoParSA/!svn/ver/345/trunk/tests/tsp/tsp_expHold-mix.cpp
+END
+tsp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/neoParSA/!svn/ver/61/trunk/tests/tsp/tsp.xml
+END
+test8.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/neoParSA/!svn/ver/231/trunk/tests/tsp/test8.xml
+END
+input.dat
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/neoParSA/!svn/ver/1/trunk/tests/tsp/input.dat
+END
+tsp_simPLam.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/neoParSA/!svn/ver/345/trunk/tests/tsp/tsp_simPLam.cpp
+END
+tsp_expHold.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/neoParSA/!svn/ver/345/trunk/tests/tsp/tsp_expHold.cpp
+END
+br17.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/neoParSA/!svn/ver/227/trunk/tests/tsp/br17.xml
+END
+lin318.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/neoParSA/!svn/ver/221/trunk/tests/tsp/lin318.xml
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/neoParSA/!svn/ver/331/trunk/tests/tsp/CMakeLists.txt
+END

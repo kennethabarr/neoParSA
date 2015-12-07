@@ -1,0 +1,36 @@
+K 10
+svn:ignore
+V 230
+printscore
+
+gmon.out
+
+fly_sa
+
+fly_sa-mpi
+
+scramble
+
+fly_pulse
+
+fly_expHold
+
+fly_expHold-mpi
+
+fly_expHold-IndMove
+
+fly_expHold-theta
+
+fly_expHold-TA
+
+sanity
+
+fly_expHold-mixing
+
+fly_expHold-mixing-IM
+
+fly_expHold-amix
+
+fly_simPLam
+
+END

@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/neoParSA/!svn/ver/350/trunk/tests/transcpp
+END
+bindingsite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/bindingsite.cpp
+END
+competition.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/competition.h
+END
+distance.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/distance.h
+END
+fasta.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/fasta.h
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/utils.h
+END
+cooperativity.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/cooperativity.h
+END
+coeffects.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/coeffects.h
+END
+promoter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/promoter.cpp
+END
+sequence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/sequence.cpp
+END
+pwm.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/pwm.h
+END
+twobit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/twobit.cpp
+END
+TF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/TF.cpp
+END
+subgroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/subgroup.h
+END
+score.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/score.h
+END
+calc_scores.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/calc_scores.cpp
+END
+quenching.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/quenching.cpp
+END
+gene.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/gene.h
+END
+organism.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/organism.h
+END
+nuclei.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/nuclei.h
+END
+parameter.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/parameter.h
+END
+scalefactor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/scalefactor.cpp
+END
+datatable.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/datatable.h
+END
+unfold.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/neoParSA/!svn/ver/337/trunk/tests/transcpp/unfold.cpp
+END
+transcpp_pEF-fbMix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/neoParSA/!svn/ver/350/trunk/tests/transcpp/transcpp_pEF-fbMix.cpp
+END
+transcpp_pEH-fbMix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/neoParSA/!svn/ver/335/trunk/tests/transcpp/transcpp_pEH-fbMix.cpp
+END
+parsefasta.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/neoParSA/!svn/ver/280/trunk/tests/transcpp/parsefasta.cpp
+END
+mode.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/mode.h
+END
+transcpp_expFrozen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/neoParSA/!svn/ver/345/trunk/tests/transcpp/transcpp_expFrozen.cpp
+END
+competition.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/competition.cpp
+END
+distance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/distance.cpp
+END
+transcpp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/neoParSA/!svn/ver/337/trunk/tests/transcpp/transcpp.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/neoParSA/!svn/ver/350/trunk/tests/transcpp/CMakeLists.txt
+END
+fasta.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/fasta.cpp
+END
+utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/utils.cpp
+END
+cooperativity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/cooperativity.cpp
+END
+coeffects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/coeffects.cpp
+END
+bindings.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/bindings.h
+END
+pwm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/pwm.cpp
+END
+bindingsite.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/bindingsite.h
+END
+subgroup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/neoParSA/!svn/ver/341/trunk/tests/transcpp/subgroup.cpp
+END
+getsequence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/neoParSA/!svn/ver/280/trunk/tests/transcpp/getsequence.cpp
+END
+transc_readFromState.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/neoParSA/!svn/ver/337/trunk/tests/transcpp/transc_readFromState.cpp
+END
+score.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/score.cpp
+END
+promoter.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/promoter.h
+END
+sequence.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/sequence.h
+END
+transcpp_expHold.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/neoParSA/!svn/ver/345/trunk/tests/transcpp/transcpp_expHold.cpp
+END
+twobit.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/neoParSA/!svn/ver/280/trunk/tests/transcpp/twobit.h
+END
+gene.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/gene.cpp
+END
+TF.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/TF.h
+END
+organism.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/neoParSA/!svn/ver/337/trunk/tests/transcpp/organism.cpp
+END
+transcpp_pEF-mix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/neoParSA/!svn/ver/339/trunk/tests/transcpp/transcpp_pEF-mix.cpp
+END
+nuclei.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/nuclei.cpp
+END
+parameter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/parameter.cpp
+END
+transcpp_pEH-mix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/neoParSA/!svn/ver/335/trunk/tests/transcpp/transcpp_pEH-mix.cpp
+END
+datatable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/datatable.cpp
+END
+transcpp_lam.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/neoParSA/!svn/ver/345/trunk/tests/transcpp/transcpp_lam.cpp
+END
+mode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/mode.cpp
+END
+quenching.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/quenching.h
+END
+scramble.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/neoParSA/!svn/ver/337/trunk/tests/transcpp/scramble.cpp
+END
+test_moves.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/test_moves.cpp
+END
+scalefactor.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/scalefactor.h
+END
+bindings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/neoParSA/!svn/ver/336/trunk/tests/transcpp/bindings.cpp
+END
