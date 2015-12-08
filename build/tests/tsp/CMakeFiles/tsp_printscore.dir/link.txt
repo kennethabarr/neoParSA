@@ -1,1 +1,0 @@
-/users/kenneth/intel/composer_xe_2013_sp1.0.080/bin/intel64/icpc       CMakeFiles/tsp_printscore.dir/tsp_printscore.cpp.o CMakeFiles/tsp_printscore.dir/tsp.cpp.o  -o ../../bin/tsp_printscore  ../../lib/libparsa.a -lxml2 -lgsl -lgslcblas -lm 

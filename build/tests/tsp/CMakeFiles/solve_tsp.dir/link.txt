@@ -1,1 +1,0 @@
-/users/kenneth/intel/composer_xe_2013_sp1.0.080/bin/intel64/icpc       CMakeFiles/solve_tsp.dir/solve_tsp.cpp.o CMakeFiles/solve_tsp.dir/tsp.cpp.o  -o ../../bin/solve_tsp  ../../lib/libparsa.a -lxml2 -lgsl -lgslcblas -lm 

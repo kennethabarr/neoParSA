@@ -1,0 +1,66 @@
+#################################################################################
+#                                                                               #
+#        Installation instructions for parallel simulated annealing code        #
+#                                                                               #
+#################################################################################
+
+Prerequisits
+_________________________________________________________________________________
+
+mpi
+---
+
+The parallel simulated annealing code uses MPI. There are two options for
+installing mpi: openMPI and mpih. The latter is faster and preferred. Once
+it is installed, you may need to load it with the command
+
+  module load mpi/mpich-ARCH
+  
+where ARCH is your system architecture (i.e. x86-64).  You can verify that it
+is loaded and available by checking
+
+  which mpicc
+  
+If this command returns a path, you are good to go.
+
+gsl
+---
+
+The code requires the GNU scientific libraries. These will be available on most
+systems by default. If not, install the developer version gsl-devel.
+
+boost
+-----
+
+The boost c++ libraries are required. These wont need to be compiled, and can
+be downloaded from www.boost.org.
+
+cmake
+-----
+
+The code compiles using cmake. Most *nix systems will also have this by default.
+You can check that you have it with
+
+  which cmake
+  
+ 
+Installation
+_________________________________________________________________________________
+
+To install, navigate to the folder
+
+  neoParSA/build
+  
+From in this folder, run
+
+  cmake -D CMAKE_BUILD_TYPE=Release -D BOOST_ROOT=/path/to/boost/ ..
+  make parsa
+  
+Where path/to/boost is the location of the boost libraries in your system. In
+the transcpp code this is set using an evironmental variable BOOST_DIR, so if you
+set BOOST_DIR using export (i.e export BOOST_DIR=/path/to/boost/) then you can
+compile this using
+
+  cmake -D CMAKE_BUILD_TYPE=Release -D BOOST_ROOT=$BOOST_DIR ..
+  make parsa
+  

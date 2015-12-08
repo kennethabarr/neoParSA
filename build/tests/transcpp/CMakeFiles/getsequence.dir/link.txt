@@ -1,1 +1,0 @@
-/users/kenneth/intel/composer_xe_2013_sp1.0.080/bin/intel64/icpc       CMakeFiles/getsequence.dir/twobit.cpp.o CMakeFiles/getsequence.dir/getsequence.cpp.o CMakeFiles/getsequence.dir/utils.cpp.o  -o ../../bin/getsequence  ../../lib/libparsa.a -lxml2 
