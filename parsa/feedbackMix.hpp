@@ -24,7 +24,7 @@ feedbackMix<Problem>::Param::Param(xmlNode *root) : target(0.5)
     try {
         target = getPropDouble(section, "target");
     } catch(std::exception &e) {
-        // ignore
+        // debug_ignore
     }
 }
 

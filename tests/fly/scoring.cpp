@@ -332,7 +332,7 @@ DataTable *scoring::List2Facts(Dlist *inlist) {
         }
 
         for (j = 1; j <= Zygote.get_ngenes(); j++) { /* always: read concs into array */
-            if (current->d[j] != IGNORE) { /* valid conc? if IGNORE -> ignore! */
+            if (current->d[j] != IGNORE) { /* valid conc? if IGNORE -> debug_ignore! */
                 D->record[D->size - 1].size++; /* one more in this record */
                 D->record[D->size - 1].array = /* reallocate memory for array! */
                 (DataPoint *)realloc(D->record[D->size - 1].array,
@@ -375,8 +375,8 @@ SearchSpace *scoring::ReadLimits(FILE *fp)
     char              *skip;               /* string of values to be skipped */
 
     const char        read_fmt[]  = "%lg";                  /* read a double */
-    const char        skip_fmt1[] = "%*lg, %*lg) (";   /* ignore lower limit */
-    const char        skip_fmt2[] = "%*lg) (%*lg, ";   /* ignore upper limit */
+    const char        skip_fmt1[] = "%*lg, %*lg) (";   /* debug_ignore lower limit */
+    const char        skip_fmt2[] = "%*lg) (%*lg, ";   /* debug_ignore upper limit */
 
     l_limits = new SearchSpace;
 
@@ -565,7 +565,7 @@ SearchSpace *scoring::ReadLimits(FILE *fp)
                 error("ReadLimits: error reading promoter threshold (h) limits");
         }
 
-        /* using penalty? -> ignore this part of the limit section */
+        /* using penalty? -> debug_ignore this part of the limit section */
 
     } else {
 

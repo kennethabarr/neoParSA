@@ -28,7 +28,7 @@ public:
         double w_sd;
         debugStatus st;
         const char * outname;
-        Param(xmlNode *root, debugStatus st=ignore, const char *outname=NULL);
+        Param(xmlNode *root, debugStatus st=debug_ignore, const char *outname=NULL);
     };
     lam(Param param);
     // lam(xmlNode *root);

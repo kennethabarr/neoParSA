@@ -185,10 +185,10 @@ void maternal::ReadTheProblem(FILE* fp)
     } else {
         defs.egene_ids = (char *) calloc(1, sizeof(char));
         defs.egene_ids = (char *)"\0";
-        fscanf(fp, "%*s\n"); /* next line (ignore empty external gene ID line) */
+        fscanf(fp, "%*s\n"); /* next line (debug_ignore empty external gene ID line) */
     }
 
-    fscanf(fp, "%*s\n"); /* next line (ignore comment) */
+    fscanf(fp, "%*s\n"); /* next line (debug_ignore comment) */
 
     if (1 != (fscanf(fp, "%d\n", &defs.ndivs))) /* read # of cell divs */
         error("ReadTheProblem: error reading problem section (ndivs)");
@@ -489,7 +489,7 @@ Blist* maternal::ReadBicoid(FILE* fp, char* section)
                     c = (int) *(++record);
                 } else if (ispunct(c)) { /* other punct means comment */
                     break;
-                } else if (isspace(c)) { /* ignore leading white space */
+                } else if (isspace(c)) { /* debug_ignore leading white space */
                     if (lead_punct) /* white space after punct means */
                         break; /* comment */
                     else {

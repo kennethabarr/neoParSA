@@ -11,7 +11,7 @@
 
 void dynDebug::__setDebug(const char* outname)
 {
-    if (status == ignore) {
+    if (status == debug_ignore) {
         streamout = NULL;
     } else if (status == sout) {
         streamout = &std::cout;
@@ -23,7 +23,7 @@ void dynDebug::__setDebug(const char* outname)
         } catch (std::exception &e) {
             std::cerr << e.what() << std::endl;
             std::cerr << "debug info is going to be ignored" << std::endl;
-            status = ignore;
+            status = debug_ignore;
             streamout = NULL;
         }
     } else {
@@ -38,7 +38,7 @@ dynDebug::dynDebug(debugStatus st, const char *outname) : status(st)
 
 dynDebug& dynDebug::operator<<(StandardEndLine)
 {
-    if (status != ignore)
+    if (status != debug_ignore)
         *streamout << std::endl;
     return *this;
 }

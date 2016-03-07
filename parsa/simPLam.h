@@ -38,7 +38,7 @@ private:
 public:
     class Param {
     public:
-        Param(xmlNode *root, debugStatus in_st=ignore, const char *name=NULL);
+        Param(xmlNode *root, debugStatus in_st=debug_ignore, const char *name=NULL);
         int proc_tau;
         double lambda;
         debugStatus st;

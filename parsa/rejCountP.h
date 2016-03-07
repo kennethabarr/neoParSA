@@ -19,7 +19,7 @@ public:
     public:
         rejCount::Param serParam;
         const MPIState &mpi;
-        Param(xmlNode *root, const MPIState &mpiState, debugStatus st=ignore,
+        Param(xmlNode *root, const MPIState &mpiState, debugStatus st=debug_ignore,
               const char * debugname=NULL);
     };
     rejCountP(const Param &param, const MPIState &mpiState);

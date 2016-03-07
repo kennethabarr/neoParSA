@@ -301,7 +301,7 @@ double tsp::read_tour(const xmlNodePtr xmlroot, const char *tourname)
     for (xmlNodePtr vNode = xmltour->children; vNode != NULL; vNode = vNode->next) {
         if (xmlStrcmp(vNode->name, BAD_CAST"vertex"))
             continue;
-        if (i >= ncities) // ignore
+        if (i >= ncities) // debug_ignore
             break;
         content = xmlNodeGetContent(vNode);
         if (content == NULL)

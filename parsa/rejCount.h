@@ -20,7 +20,7 @@ public:
         //int output_freq;
         debugStatus st;
         const char * debugname;
-        Param(xmlNode *root, debugStatus st=ignore,
+        Param(xmlNode *root, debugStatus st=debug_ignore,
               const char * debugname=NULL);
     };
     rejCount(const Param &param);

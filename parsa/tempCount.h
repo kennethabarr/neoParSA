@@ -14,10 +14,10 @@
 
 class tempCount {
 private:
-    mutable dynDebug debugOut;
     const int max_steps;
     int step_cnt;
     double target_s;
+    mutable dynDebug debugOut;
 public:
     class Param {
     public:
@@ -25,7 +25,7 @@ public:
         double target_s;
         debugStatus st;
         const char * debugname;
-        Param(xmlNode *root, debugStatus st=ignore,
+        Param(xmlNode *root, debugStatus st=debug_ignore,
               const char *debugname = NULL);
     };
     tempCount(const Param &param) : max_steps(param.max_steps),

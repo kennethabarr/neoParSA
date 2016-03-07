@@ -23,7 +23,7 @@ public:
         double alpha;
         debugStatus st;
         const char *outname;
-        Param(xmlNode *root, debugStatus st=ignore, const char *outname=NULL);
+        Param(xmlNode *root, debugStatus st=debug_ignore, const char *outname=NULL);
     };
     exponential(const Param &param);
     // exponential(xmlNode *root);

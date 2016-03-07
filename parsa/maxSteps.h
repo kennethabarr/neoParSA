@@ -20,7 +20,7 @@ public:
         int max_steps;
         debugStatus st;
         const char * debugname;
-        Param(xmlNode *root, debugStatus st=ignore,
+        Param(xmlNode *root, debugStatus st=debug_ignore,
               const char *debugname = NULL);
     };
     maxSteps(const Param &param): max_steps(param.max_steps),

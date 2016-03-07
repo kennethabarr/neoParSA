@@ -33,11 +33,11 @@ public:
     void setDebug(debugStatus st, const char* outname=NULL)
     {
         if (reportNAdopt) {
-            mix.debugOut.setDebug(ignore, NULL);
+            mix.debugOut.setDebug(debug_ignore, NULL);
             debugOut.setDebug(st, outname);
         } else {
             mix.debugOut.setDebug(st, outname);
-            debugOut.setDebug(ignore, NULL);
+            debugOut.setDebug(debug_ignore, NULL);
         }
     }
 private:

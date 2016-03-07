@@ -348,7 +348,7 @@ void GeneContainer::readFastaGenes(ptree& gene_nodes, string& fasta_name)
     {
       right_bound = left_bound + sequence.length();
     }
-    else // we ignore left_bound if right bound is set 
+    else // we debug_ignore left_bound if right bound is set 
     {
       left_bound  = right_bound - sequence.length();
     }

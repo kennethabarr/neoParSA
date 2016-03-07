@@ -72,7 +72,7 @@ intervalMix<Problem>::Param::Param(xmlNode *root)
     try {
         reportNAdopt = getPropInt(section, "reportNAdopt");
     } catch (std::exception &e) {
-        // ignore
+        // debug_ignore
     }
 }
 

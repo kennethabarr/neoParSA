@@ -1009,7 +1009,7 @@ void Organism::restoreLambda(int idx)
 
 }
 
-// Moving Kmax is about the same as moving lambda. Maybe I should just ignore..
+// Moving Kmax is about the same as moving lambda. Maybe I should just debug_ignore..
 void Organism::moveKmax(int idx)
 {
   if (mode->getVerbose() >= 3)

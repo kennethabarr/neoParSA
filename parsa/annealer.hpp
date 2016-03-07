@@ -281,9 +281,10 @@ double annealer<Problem, Schedule, FrozenCnd, Move>::readUnifiedInitState(const 
 {
     char * stateName;
     char * xmlName;
-    asprintf(&stateName, "%s.state", filename);
-    asprintf(&xmlName, "%s.xml", filename);
-    
+    if (asprintf(&stateName, "%s.state", filename) == -1) 
+      throw std::runtime_error("Failed to allocate state filename");
+    if (asprintf(&xmlName, "%s.xml", filename) == -1)
+      throw std::runtime_error("Failed to allocate xml filename");
     int bufSize = problem.getStateSize();
     char * stateBuf = new char[bufSize];
     ifstream stateFile(stateName, ios::in | ios::binary);

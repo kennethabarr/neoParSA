@@ -6,21 +6,21 @@
 
 #include <ostream>
 #include <fstream>
-enum debugStatus {ignore, sout, err, file};
+enum debugStatus {debug_ignore, sout, err, file};
 class dynDebug
 {
 private:
     std::ostream *streamout;
     debugStatus status;
 public:
-    dynDebug(debugStatus st=ignore, const char *outname=NULL);
+    dynDebug(debugStatus st=debug_ignore, const char *outname=NULL);
     ~dynDebug(){if (status == file) delete streamout;}
     template<class T>
     dynDebug& operator <<(T const &);
     void setDebug(debugStatus st, const char *outname=NULL);
-    bool isIgnore() const {return (status == ignore);}
+    bool isIgnore() const {return (status == debug_ignore);}
     void precision(std::streamsize prec)
-    {if (status != ignore) streamout->precision(prec);}
+    {if (status != debug_ignore) streamout->precision(prec);}
 
 
 
@@ -37,7 +37,7 @@ protected:
 template<class T>
 dynDebug& dynDebug::operator<<(const T& t)
 {
-    if (status != ignore)
+    if (status != debug_ignore)
         *streamout << t;
     return *this;
 }

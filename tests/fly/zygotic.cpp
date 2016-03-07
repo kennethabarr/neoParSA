@@ -66,7 +66,7 @@ EqParms zygotic::ReadParameters(FILE* fp, const char* section_title)
     char *skip, *skip1; /* string of values to be skipped */
 
     const char read_fmt[] = "%lg"; /* read a double */
-    const char skip_fmt[] = "%*lg "; /* ignore a double */
+    const char skip_fmt[] = "%*lg "; /* debug_ignore a double */
 
     base = (char *) calloc(MAX_RECORD, sizeof(char));
 
@@ -230,7 +230,7 @@ EqParms zygotic::ReadParameters(FILE* fp, const char* section_title)
                 c = (int) *(++record);
             } else if (ispunct(c)) { /* other punct means comment */
                 break;
-            } else if (isspace(c)) { /* ignore leading white space */
+            } else if (isspace(c)) { /* debug_ignore leading white space */
                 if (lead_punct) /* white space after punct means */
                     break; /* comment */
                 else {

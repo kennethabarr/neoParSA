@@ -165,7 +165,7 @@ fly::Tweak fly::ReadTweak(const fly_params& params)
      E tweaks */
     char *skip, *skip1; /* string of values to be skipped */
     const char read_fmt[] = "%d"; /* read an int */
-    const char skip_fmt[] = "%*d "; /* ignore an int */
+    const char skip_fmt[] = "%*d "; /* debug_ignore an int */
     FILE* fp = params.infile;
     base = (char*) (calloc(MAX_RECORD, sizeof(char*)));
     skip = (char*) (calloc(MAX_RECORD, sizeof(char*)));
@@ -302,7 +302,7 @@ fly::Tweak fly::ReadTweak(const fly_params& params)
                 }
                 break; /* don't do rest of loop anymore! */
             } else if (isspace(c)) {
-                /* ignore leading white space */
+                /* debug_ignore leading white space */
                 c = (int) (*(++record));
             } else {
                 /* anything but space or digit means comment */

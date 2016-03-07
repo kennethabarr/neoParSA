@@ -329,7 +329,7 @@ Dlist *ReadData(FILE *fp , char *section, int *ndp, int ngenes)
     else if ( ispunct(c) ){               /* other punct means comment */
       break;
     }
-    else if ( isspace(c) ) {             /* ignore leading white space */
+    else if ( isspace(c) ) {             /* debug_ignore leading white space */
       if ( lead_punct )               /* white space after punct means */
         break;                                              /* comment */
       else {
@@ -447,7 +447,7 @@ Dlist *ReadInterpData(FILE *fp , char *section, int num_genes, int *ndp)
     else if ( ispunct(c) ){               /* other punct means comment */
       break;
     }
-    else if ( isspace(c) ) {             /* ignore leading white space */
+    else if ( isspace(c) ) {             /* debug_ignore leading white space */
       if ( lead_punct )               /* white space after punct means */
         break;                                              /* comment */
       else {

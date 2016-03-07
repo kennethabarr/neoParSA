@@ -22,7 +22,7 @@ public:
         double target_s;
         debugStatus st;
         const char *outname;
-        Param(xmlNode *root, debugStatus st=ignore, const char *outname=NULL);
+        Param(xmlNode *root, debugStatus st=debug_ignore, const char *outname=NULL);
     };
     oneStep(Param param);
     ~oneStep();

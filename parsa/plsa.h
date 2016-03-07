@@ -18,7 +18,7 @@ public:
     class Param {
     public:
         lam::Param lamParam;
-        Param(xmlNode *root, debugStatus st=ignore, const char *outname=NULL);
+        Param(xmlNode *root, debugStatus st=debug_ignore, const char *outname=NULL);
     };
     plsa(Param param, const MPIState &mpiState);
     // plsa(xmlNode *root, const MPIState &mpiState);
